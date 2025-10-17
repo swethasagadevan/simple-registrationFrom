@@ -29,7 +29,7 @@ A simple and responsive registration form built using **HTML**, **Tailwind CSS**
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/swethasagadevan/Greenden-tailwind.git
+git clone https://github.com/swethasagadevan/simple-registrationFrom.git
 
 
 
