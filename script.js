@@ -71,12 +71,12 @@ function checkMail() {
     var validmail = vaild(mail)
 
     if (mail.value == "") {
-        errormsgmail.textContent = "Please enter Email"
+        errormsgmail.textContent = "Please enter mail Id"
         flagmail=0;
     }
     else if (!validmail) {
         //console.log(validmail)
-        errormsgmail.textContent = "Please enter correct mail id"
+        errormsgmail.textContent = "Please enter a valid mail Id"
         flagmail=0;
     }
     else {
